@@ -1,0 +1,16 @@
+.body{
+	background-color: #DBDBDB;
+}
+.jumbotron.JT {
+	background-image: url('../img/background1.jpg');
+	background-size: cover;
+	color: lightgray;
+	text-shadow: 2px 2px 8px black;
+	margin-top: 45px;
+}
+.tableHeader {
+	font-size: 26px;
+}
+.tableBody {
+	font-size: 20px;
+}
